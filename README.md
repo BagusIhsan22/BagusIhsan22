@@ -1,6 +1,6 @@
 ### Hi👋 Saya Bagus dari SMK Jakarta Pusat 1.
 
-![Foto](/![images](https://user-images.githubusercontent.com/111104078/184300838-8c1e021f-5945-4da1-8350-08def0613bd2.jpg)
+![Foto](/jokowi.jpg)
 )
 
 <!--
