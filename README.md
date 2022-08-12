@@ -1,6 +1,7 @@
 ### Hi👋 Saya Bagus dari SMK Jakarta Pusat 1.
 
-![Foto](/jokowi.jpg)
+![Foto](/![images](https://user-images.githubusercontent.com/111104078/184300838-8c1e021f-5945-4da1-8350-08def0613bd2.jpg)
+)
 
 <!--
 **BagusIhsan22/BagusIhsan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
