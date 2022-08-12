@@ -1,4 +1,4 @@
-### Hi👋 Saya Bagus dari SMK Jakarta Pusat 1
+### Hi👋 Saya Bagus dari SMK Jakarta Pusat 1.
 
 <!--
 **BagusIhsan22/BagusIhsan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
